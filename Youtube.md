@@ -208,3 +208,4 @@ YouTube’s cloud architecture is a **layered system**:
 It’s a perfect example of **cloud-native design**: scalable, resilient, and user‑centric.
 
 ---
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/709a512c-ae74-419d-ac82-4ed2ffda02cf" />
